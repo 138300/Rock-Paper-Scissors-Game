@@ -13,4 +13,4 @@ It's good project for learning how to use PyQt5 and PyQt designer and random lib
 
 .Interesting design
 
-.Project uploaded with source code in .exe file
+.Project uploaded with source code and .exe file
