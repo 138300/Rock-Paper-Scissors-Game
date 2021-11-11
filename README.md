@@ -1,6 +1,13 @@
 # Rock-Paper-Scissors-Game
-Rock Paper Scissors Game with PyQt5
+rock paper scissors is a old game that all of us played it but this time let's play with computer
 
-You can play rock papaer scissors in 3 rounds or 6 rounds
+# Description
+This is Rock Papar Scissors with PyQt5 and PyQt designer
 
-Hope enjoy it
+It's good project for learning how to use PyQt5 and PyQt designer and random library
+
+# Features
+.Level:mid
+.You can choose count of rounds
+.Interesting design
+.Project uploaded with source code in .exe file
